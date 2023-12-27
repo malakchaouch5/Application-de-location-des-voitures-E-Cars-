@@ -1,0 +1,8 @@
+107 citroene 70 80.00 0 1
+200 NISSAN blanche 100.00 1 0
+103 mercedes blanche 120.00 0 1
+100 mercedes rouge 120.00 0 1
+104 BMW noire 120.00 0 1
+105 audi gris 140.00 0 1
+10 golf rouge 70.00 0 0
+6344840 — 2 0.00 1972548201 12781576
