@@ -1,6 +1,8 @@
 # Application-de-location-des-voitures-E-Cars-
 E-Cars est une simple application  de location des voitures écrite en langage C. Elle permet de consulter l’état des voitures à l’agence, ainsi que l'historique des locations et  elle  le garde  en archive , modifier l'état des voitures et plusieurs autres fonctions.
-*les fonctions que je traite dans cette application :
+
+ * Les fonctions que j'ai traitées dans cette application  :
+
  -Ajouter une voiture : Cette fonction permet d'ajouter un nouveau véhicule à la base de données de l'agence de location en collectant des informations telles que l'ID, la marque, la couleur, le prix par jour, le statut de panne et de location du véhicule.
 
  -Louer une voiture : Cette fonctionnalité permet de sélectionner un véhicule disponible pour la location, enregistrer les détails de la location tels que l'ID du client, les dates de début et de fin, calculer le prix total de la location et enregistrer ces informations dans l'historique des locations.
